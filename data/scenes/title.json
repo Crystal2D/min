@@ -1,1 +1,1 @@
-{"name":"Title","partioning":{"disabled":true},"resources":["sprites/title"],"gameObjects":[{"name":"camera","id":0,"components":[{"type":"Viewport"},{"type":"Camera"}]},{"name":"obj_bg","id":1,"components":[{"type":"SpriteRenderer","args":{"sprite":{"texture":"sprites/title"}}}]}]}
+{"name":"Title","partioning":{"disabled":true},"resources":["sprites/title","font_main"],"gameObjects":[{"name":"camera","id":0,"components":[{"type":"Viewport"},{"type":"Camera"}]},{"name":"obj_bg","id":1,"components":[{"type":"SpriteRenderer","args":{"sprite":{"texture":"sprites/title"}}}]}]}
